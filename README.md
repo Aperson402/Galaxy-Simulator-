@@ -66,7 +66,6 @@ This project currently regenerates a random galaxy on launch. If you want quick 
 - `main.swift`: Minimal Cocoa entry point. Creates the `NSApplication`, assigns `AppDelegate`, sets activation policy, and starts the run loop.
 
 ## Contributing
-## Contributing
 Contributions are welcome! Good first issues:
 - Add runtime star count toggles.
 - Implement a reset hotkey to regenerate galaxies without relaunching.
